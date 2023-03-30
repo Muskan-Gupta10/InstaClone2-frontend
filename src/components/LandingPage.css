@@ -1,0 +1,35 @@
+#image {
+    width: 375px;
+    height: 500px;
+    margin-top: 70px;
+    margin-left: 300px;
+    border: 1px solid #707070;
+    opacity: 1;
+    box-sizing: border-box;
+}
+
+.Container {
+    display: flex;
+}
+
+#ptag {
+    margin-top: 250px;
+    margin-left: 50px;
+    width: 300px;
+    height: 85px;
+    text-align: left;
+    font: normal normal normal 40px/80px Palatino;
+    letter-spacing: 0px;
+    color: #006238;
+    opacity: 1;
+}
+#btn{
+    width: 60px;
+    height: 27px;
+    padding: 2px;
+    margin-left: 70px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 3px solid #006238;
+border-radius: 10px;
+opacity: 1;
+}
