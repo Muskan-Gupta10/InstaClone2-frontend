@@ -10,7 +10,7 @@ import mainImage from "./images/lens-1418954.png"
       <img id="image" src={mainImage} alt="image"/>
       <p id='ptag'>10x Team 04
       <br/>
-      <NavLink to="/Posts"><button id='btn'>Enter</button></NavLink>
+      <NavLink to="/allposts"><button id='btn'>Enter</button></NavLink>
       </p>
     </div>
   );
